@@ -1,0 +1,244 @@
+body {
+	background-color: #F6F8F9;
+}
+.header-wraper {
+	/*background-color: #F6F8F9;*/
+	width: 1440px;
+	height: 50px;
+	margin-bottom: 25px;
+	
+
+}
+.main-logo {
+	font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Titillium Web', sans-serif;
+
+	font-size: 13px;
+	margin-left: 20px;
+	margin-top: 30px;
+	color: #FF4D4D;
+	display: inline-block;
+	vertical-align: middle;
+}
+.navigation {
+	font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Titillium Web', sans-serif;
+
+	margin-left: 20px;
+	display: inline-block;
+	text-decoration: none;
+	vertical-align: middle;
+}
+.nav-list-item1 {
+	text-decoration: none;
+	display: inline-block;
+	font-size: 11px;
+	color: #343638;
+	margin-left: 92px;
+}
+.nav-list-item {
+	text-decoration: none;
+	display: inline-block;
+	font-size: 11px;
+	color: #343638;
+	margin-left: 22px;
+}
+.pfp-img {
+	width: 30px;
+	height: 30px;
+	margin-left: 40px;
+	margin-top: 11px;
+}
+/*1st block*/
+
+.block1 {
+	
+	/*width: 1160px;*/
+	height: 410px;
+	margin-top: 31px;
+	margin-left: 140px;
+	margin-right: 40px;
+}
+.title1 {
+	font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Titillium Web', sans-serif;
+	margin-top: 100;
+	font-size: 24px;
+	color: #202124;
+	
+}
+.box1 {
+	width: 360px;
+	height: 350px;
+	background-color: #FFFFFF;
+	margin-top: 40px;
+	margin-right: 40px;
+	position: relative;
+	display: inline-block;
+	vertical-align: middle;
+
+}
+.img-title {
+	position: absolute;
+}
+.box2 {
+	width: 360px;
+	height: 350px;
+	background-color: #FFFFFF;
+	margin-top: 40px;
+	margin-right: 40px;
+	position: relative;
+	display: inline-block;
+	vertical-align: middle;
+}
+.box3 {
+	width: 360px;
+	height: 350px;
+	background-color: #FFFFFF;
+	margin-top: 40px;
+	position: relative;
+	display: inline-block;
+	vertical-align: middle;
+}
+.img1 {
+	width: 360px;
+	height: 180px;
+	display: inline-block;
+
+}
+.box1-p {
+	color: #A6ADB4;
+	margin-left: 40px;
+	margin-top: 66px;
+	font-size: 13px;
+	width: 280px;
+}
+.time-image {
+	margin-top: 10px;
+	margin-left: 40px;
+	margin-right: 10px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.time1 {
+	margin-top: 10px;
+	font-size: 13px;
+	display: inline-block;
+	color: #A6ADB4;
+	vertical-align: middle;
+}
+.abd {
+	position: absolute;
+}
+/*2nd block*/
+
+.title2 {
+	font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Titillium Web', sans-serif;
+font-size: 24px;
+color: #202124;
+margin-top: 58px;
+margin-left: 140px;
+margin-bottom: 40px;
+}
+.section1 {
+	width: 360px;
+	display: inline-block;
+	vertical-align: top;
+}
+.block2 {
+	width: 760px;
+	height: 900px;
+	margin-bottom: 32px;
+	margin-left: 140px;
+	display: inline-block;
+	vertical-align: top;
+}
+.bridge-img {
+	width: 760px;
+	height: 430px;
+	margin-bottom: 40px;
+}
+.forest-img {
+	width: 760px;
+	height: 430px;
+}
+.block3 {
+	width: 360px;
+	height: 896px;
+	margin-left: 40px;
+	/*margin-bottom: 102px;*/
+	/*display: inline-block;*/
+}
+.images {
+	width: 360px;
+	height: 210px;
+	margin-bottom: 102px;
+	
+}
+/*footer*/
+.footer {
+	width: 1440px;
+	height: 200px;
+	background-color: #A6ADB4;
+	display: inline-block;
+}
+.footer-box1 {
+	width: 487px;
+	height: 84px;
+	margin-left: 142px;
+	margin-top: 56px;
+	display: inline-block;
+
+
+}
+.logo2 {
+	font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Titillium Web', sans-serif;
+font-size: 13px;
+color: #FFFFFF;
+display: inline-block;
+vertical-align: top;
+}
+.navigation2 {
+	display: inline-block;
+
+}
+.nav-list-item2 {
+	font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Titillium Web', sans-serif;
+font-size: 13px;
+	padding-bottom: 8px;
+	padding-right: 71px;
+	display: inline-block;
+	vertical-align: top;
+	color: #CBD0D3;
+
+}
+.contact-info {
+	font-size: 11px;
+	color: #CBD0D3;
+	margin-left: 101px;
+	margin-top: 62px;
+	display: inline-block;
+	vertical-align: top;
+}
+.icons {
+	display: inline-block;
+	margin-left: 165px;
+	vertical-align: top;
+
+}.icon-img {
+	width: 16px;
+	height: 16px;
+	display: inline-block;
+	margin-right: 32px;
+	margin-top: 56px;
+
+}
